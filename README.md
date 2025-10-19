@@ -1,4 +1,5 @@
 # Mini admin panel
+<img width="1380" height="617" alt="Screenshot 2025-10-19 at 12 34 31" src="https://github.com/user-attachments/assets/e301cc00-5e45-47ad-8f07-332c9526b450" />
 
 ## Tech Stack
 
